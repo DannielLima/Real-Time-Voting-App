@@ -10,4 +10,4 @@ Technologies used in the project:
 
 *   Go
 *   WebSocket (github.com/gorilla/websocket)
-*   HTML5 CSS3 JavaScript
+*   HTML5, CSS3 and JavaScript
